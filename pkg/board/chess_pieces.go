@@ -1,4 +1,4 @@
-package engine
+package board
 
 // File is traditionally a Char between A and H, but computationally, it is easier to represent it as an int
 type BoardLocation struct {
